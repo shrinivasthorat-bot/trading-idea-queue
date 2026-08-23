@@ -22,3 +22,9 @@ re-propose those without a genuinely new angle.
   disclosures (same pre-disclosure front-running flaw as last week's promoter-transaction
   candidate), BRSR/ESG disclosures (one study found a null result), and FII/DII flow +
   analyst revisions re-checked with no new result.
+- **2026-08-23 (data-availability follow-up, not a new candidate)** —
+  `data-sources/promoter-pledge-data-availability.md`: manual check (not the automated scout) of
+  whether promoter-pledge data for the open pledging candidate above is actually obtainable.
+  Screener.in ruled out (no pledge field at all). Trendlyne.com has the field, but point-in-time
+  history is paywalled behind its ~Rs 2,190/yr GuruQ plan rather than free; whether that plan's
+  history is deep/granular enough for a backtest has not yet been verified.
