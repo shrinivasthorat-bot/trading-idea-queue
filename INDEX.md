@@ -42,3 +42,23 @@ re-propose those without a genuinely new angle.
   return-predictability evidence exists yet, would need a case built from scratch), and
   single-stock-futures basis/cost-of-carry (the one India study found gives same-day information
   content only, not a forward signal).
+- **2026-09-06** — 2 candidates: cross-holding "HoldCo discount-to-NAV" mean reversion —
+  a new asset-based (not earnings/book-based) value construct buying listed Indian holding
+  companies at the widest discount to sum-of-the-parts NAV of their subsidiary stakes;
+  strong academic mechanism analogy from the closed-end-fund discount literature, strong
+  India-specific descriptive evidence (60-80% discounts, practitioner/valuation-firm
+  studies) but no peer-reviewed academic backtest found, and a small (~20-40 name)
+  tradable universe. Labor hiring / employee-growth as an investment-based negative
+  return predictor (Belo, Lin & Bazdresch 2014, JPE) — plausible risk-based mechanism, no
+  India replication found, flagged for the same size/beta confound risk that killed the
+  profitability factor, and a real data-availability caveat (true headcount only
+  available via BRSR from ~FY22-23 for large caps; XBRL only has employee *expense*, a
+  noisier proxy). Also recorded as investigated-not-proposed: NSE securities-lending/short
+  interest (strong international evidence, but India's SLB market looks too thin/inactive
+  for a reliable signal), related-party-transaction/tunneling intensity as a direct return
+  factor (Bertrand-Mehta-Mullainathan 2002 shows tunneling depresses firm value in Indian
+  business groups, but no study found that RPT intensity predicts *future returns*), IiAS/
+  corporate-governance scores (IiAS's own materials disclaim any return relationship; MSCI
+  found governance scores work in developed but not emerging markets), and patent-based
+  "innovative efficiency" (strong US result, no India replication, patent-to-company
+  matching would be a from-scratch data effort like the e-way-bill idea).
