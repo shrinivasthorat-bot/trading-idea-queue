@@ -62,3 +62,25 @@ re-propose those without a genuinely new angle.
   found governance scores work in developed but not emerging markets), and patent-based
   "innovative efficiency" (strong US result, no India replication, patent-to-company
   matching would be a from-scratch data effort like the e-way-bill idea).
+- **2026-09-13** — 2 candidates: abnormal reporting timeliness / filing-delay anomaly — a
+  firm's earnings/annual-report filing date relative to its own historical pattern or the
+  SEBI LODR statutory deadline, evidence base spans the US (Bagnoli-Kross-Watts 2002:
+  unexpectedly late filers underperform even controlling for the earnings surprise) and China
+  (abnormal audit-report lag predicts crash risk) — genuine multi-market replication, no
+  India-specific return-predictability study found yet, and the filing-date data needed is
+  plausibly already inside this project's existing XBRL point-in-time collector metadata;
+  flagged for the same size/complexity confound check that killed the profitability factor,
+  since naive absolute lag likely just proxies for firm size unless measured as a within-firm
+  surprise. Mutual-fund ownership breadth (Chen-Hong-Stein 2002 differences-of-opinion/
+  short-sale-constraint construct, using AMFI's monthly per-scheme portfolio disclosures — a
+  new granular fund-level data type, distinct from the aggregate FII/DII/institutional-
+  ownership work already investigated in earlier runs) — single founding US study with an
+  unresolved interpretation debate in follow-on literature, no India replication found;
+  India's much broader structural short-sale constraint (only ~180-200 F&O-eligible names can
+  be shorted at all) makes the mechanism plausibly stronger here, but also flagged as a likely
+  small-cap/liquidity confound echoing the profitability postmortem. Also recorded as
+  investigated-not-proposed: annual report readability/Fog index (India study found tests
+  return synchronicity, not forward return predictability, so no India evidence yet that it's
+  tradeable) and FII/DII index-futures-and-options participant-wise positioning (index-level
+  market-timing data, out of scope for a long-only stock-selection mandate, and only
+  practitioner narrative found, no peer-reviewed test).
