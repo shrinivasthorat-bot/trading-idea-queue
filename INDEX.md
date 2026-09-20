@@ -84,3 +84,25 @@ re-propose those without a genuinely new angle.
   tradeable) and FII/DII index-futures-and-options participant-wise positioning (index-level
   market-timing data, out of scope for a long-only stock-selection mandate, and only
   practitioner narrative found, no peer-reviewed test).
+- **2026-09-20** — 2 candidates: customer-supplier economic links / "customer momentum" — a
+  supplier's next-month return predicted by its major customer's this-month return, genuinely
+  new production-network data type, strong multi-market replication (US Cohen-Frazzini 2008,
+  China 2011-2019, a global network-weighted extension), plausible limited-attention mechanism,
+  but India's Ind AS 108 segment-reporting rule discloses customer revenue concentration without
+  naming the customer, so mapping supplier-customer pairs would need sector-by-sector manual
+  curation (auto ancillaries, investor presentations, export customs data), not a clean bulk
+  feed; flagged for the same size/liquidity confound risk that killed the profitability factor.
+  Analyst forecast dispersion (differences-of-opinion) anomaly (Diether-Malloy-Scherbina 2002) —
+  distinct data type (sell-side consensus estimates) built on the *same* differences-of-opinion/
+  short-sale-constraint mechanism as the 2026-09-13 mutual-fund-breadth candidate, so not fully
+  independent of it; single US founding study with a directly disputed risk-based alternative
+  explanation (Johnson 2004), no confirmed India replication found, and DMS's own paper states
+  the effect concentrates in small stocks — an explicit, direct echo of the profitability-factor
+  confound. Point-in-time consensus-estimate data would likely piggyback on the same paid
+  Trendlyne GuruQ subscription already pending from the 2026-08-23 promoter-pledge
+  data-availability check. Also recorded as investigated-not-proposed: ESOP grant intensity
+  (US evidence concentrated around IPOs only, no EM/India return study), employee sentiment /
+  crowdsourced reviews (direction of effect disputed in the literature itself, thin India review
+  coverage), and single-stock options variance risk premium / IV term structure (India evidence
+  found is index-level only, no cross-sectional single-stock study, same narrow F&O-universe
+  constraint already flagged for the 2026-08-21 skew candidate).
