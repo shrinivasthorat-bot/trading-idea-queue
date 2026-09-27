@@ -106,3 +106,24 @@ re-propose those without a genuinely new angle.
   coverage), and single-stock options variance risk premium / IV term structure (India evidence
   found is index-level only, no cross-sectional single-stock study, same narrow F&O-universe
   constraint already flagged for the 2026-08-21 skew candidate).
+- **2026-09-27** — 2 candidates: political connections (board-level politician ties / corporate
+  political donations) as a firm characteristic — genuinely new data type, best within-India
+  replication seen so far (4+ independent India studies 2022-2025 on profit persistence, credit
+  access, crisis resilience, investment behavior), plausible rent-seeking/preferential-access
+  mechanism, but no paper found that tests an actual connected-minus-unconnected return spread
+  directly, and a serious business-group/large-cap confound risk flagged (the mirror image of the
+  small-cap confound that killed profitability); donation-based variant plausibly obtainable via
+  ADR's compiled disclosures post the Feb-2024 electoral-bonds Supreme Court ruling, politician-
+  director variant needs from-scratch name-matching against ECI rolls. Carbon emissions/climate-
+  transition and physical climate-risk factors — new data type, real multi-market and BRICS/India-
+  specific replication found, but the core emissions-premium mechanism is actively disputed at
+  Journal-of-Finance level in its own founding US evidence (Aswani-Raghunandan-Rajgopal critique:
+  premium vanishes with disclosed emissions or intensity scaling), India's BRSR emissions-disclosure
+  history is only ~2-3 years deep and compliance-incomplete, and the India-specific physical-risk
+  paper's full text could not be verified directly (network-blocked, relied on abstract summary only).
+  Also recorded as investigated-not-proposed: satellite/alternative imagery (real US firm-level
+  precedent for parking-lot car counts, but no India firm-level study and likely cost-prohibitive
+  data access), SEBI enforcement-action price reaction (directly contradictory findings between
+  sources on the same question), and UPI/digital-payments transaction data (novel and India-specific
+  but zero existing return-predictability literature, would be a from-scratch build like the
+  e-way-bill idea).
