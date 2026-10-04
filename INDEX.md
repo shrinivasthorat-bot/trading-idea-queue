@@ -127,3 +127,26 @@ re-propose those without a genuinely new angle.
   sources on the same question), and UPI/digital-payments transaction data (novel and India-specific
   but zero existing return-predictability literature, would be a from-scratch build like the
   e-way-bill idea).
+- **2026-10-04** — 2 candidates: asset growth / investment anomaly (Cooper-Gulen-Schill 2008,
+  Titman-Wei-Xie 2004) — a new investment-based (not profitability-based) characteristic, genuinely
+  multi-market replicated (Watanabe et al. 2013, 40 countries), but Fama-French's own "Dissecting
+  Anomalies" (2008) shows it's concentrated in microcaps — the same confound shape that killed this
+  project's profitability factor — and India evidence so far is thin (a borderline-significant CMA
+  factor, t≈1.99, in a standard four-factor NSE replication); also currently data-blocked, since the
+  project's XBRL collector only has balance-sheet history from ~2023, nowhere near enough for a
+  defensible asset-growth backtest, so this sits on the queue as "pending data extension." Index
+  reconstitution flows (Nifty/Sensex add-delete events) — new data type (passive-fund forced-flow
+  events), but explicitly NOT the well-known announcement/effective-date price pop, which the
+  evidence (Greenwood & Sammon 2025 in the US; Marisetty 2025 and an older CNX Nifty study in India)
+  shows has decayed to near-arbitraged-away; the narrower, much less evidenced variants proposed
+  instead are post-deletion mean-reversion rebound and pre-announcement Next-50 promotion-candidate
+  screening, constrained by only ~8-15 qualifying events/year. Also recorded as investigated-not-
+  proposed: open-market buyback announcement drift (Ikenberry-Lakonishok-Vermaelen 1995 US effect has
+  reportedly decayed to ~zero post-2003 per Fu & Huang 2016; no factor-controlled India replication
+  found; and SEBI banned the open-market-buyback route in India entirely from 2023 until a reported
+  Aug-2026 reinstatement, so there's barely a sample to test yet) and Google Search Volume Index /
+  Google Trends retail attention (mechanistically distinct from the 2026-08-30 news-coverage-count
+  attention candidate — retail demand/price-pressure per Da-Engelberg-Gao 2011 and an India
+  replication, Aziz & Ansari 2021, vs. institutional-neglect information diffusion — but the pattern
+  is a short-horizon overreaction-then-reversal, a poor fit for a standing long-only factor without a
+  fast-turnover redesign, plus Google Trends has no point-in-time-safe bulk historical API).
