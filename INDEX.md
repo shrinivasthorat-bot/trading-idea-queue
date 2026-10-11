@@ -150,3 +150,25 @@ re-propose those without a genuinely new angle.
   replication, Aziz & Ansari 2021, vs. institutional-neglect information diffusion — but the pattern
   is a short-horizon overreaction-then-reversal, a poor fit for a standing long-only factor without a
   fast-turnover redesign, plus Google Trends has no point-in-time-safe bulk historical API).
+- **2026-10-11** — 2 candidates: composite/net share-issuance anomaly (equity issuers
+  underperform) — a new corporate-actions/market-structure data type (shares outstanding,
+  not accounting data), so unlike the balance-sheet-blocked asset-growth candidate this is
+  testable on India today; broad 68-market country/industry-level replication (Long, Chiah,
+  Zaremba & Umar 2023) plus a direct India firm-level study (Sehgal & Pandey 2013) with the
+  same sign, but the country-level evidence isn't the same claim as firm-level stock
+  selection, I could not verify whether the effect survives value-weighting the way I recall
+  Pontiff & Woodgate (2008) showing for the US, and India's open-market-buyback ban
+  (2023-Aug2026) distorts the standard "composite" (issuance-minus-repurchase) construction,
+  so a simpler net-issuance measure is recommended if tested. Beneish M-score
+  earnings-manipulation-risk screen — single India study (Jain & Bose 2023, NSE 500) finds
+  flagged firms underperform, but the authors themselves note year-to-year instability, a
+  second India paper's result direction couldn't be confirmed, Indian COGS/SG&A disclosure
+  conventions may make the ratios hard to compute cleanly (per GMT Research), and one of its
+  8 components overlaps with the accrual anomaly already flagged as too-weak-in-India
+  (2026-08-23) — flagged as the weaker of this week's two candidates. Also recorded as
+  investigated-not-proposed: financial distress risk / "distress puzzle" anomaly (real gap —
+  India has distress-prediction-accuracy studies but none found testing return
+  predictability), dividend initiation/omission anomaly (stale, mixed Indonesia-only EM
+  evidence, no India study), and NCLT/IBC insolvency-filing price reaction (abundant
+  single-stock anecdotes, no systematic academic event study found, and likely too
+  low-frequency/event-driven to fit a standing cross-sectional factor anyway).
