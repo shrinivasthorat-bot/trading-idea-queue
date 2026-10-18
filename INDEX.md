@@ -172,3 +172,24 @@ re-propose those without a genuinely new angle.
   evidence, no India study), and NCLT/IBC insolvency-filing price reaction (abundant
   single-stock anecdotes, no systematic academic event study found, and likely too
   low-frequency/event-driven to fit a standing cross-sectional factor anyway).
+
+- **2026-10-18** — 2 candidates: foreign-ownership-limit ("FII headroom") scarcity premium — a new
+  market-structure data type (regulatory FPI sectoral caps, not accounting or price data), real
+  India-specific anecdotal confirmation (HDFC Bank's ADR-domestic premium exceeding 20% at a
+  binding limit) and a plausible segmentation/limits-to-arbitrage mechanism from the closed-end
+  country-fund literature, but no academic study found that actually tests domestic-stock forward
+  returns against the stock's own foreign-headroom level — i.e. untested rather than proven — plus
+  a real risk headroom-scarcity just relabels large-cap/quality exposure (mirror image of the
+  profitability factor's small-cap confound), and point-in-time headroom history availability is
+  unverified. Credit-rating-*change* momentum (Dichev-Piotroski 2001 long-run post-downgrade drift,
+  distinct from the rating-*level* anomaly already flagged 2026-08-23) — genuine multi-market
+  replication (US, Brazil, Russia, same sign), but the Avramov-Chordia-Jostova-Philipov distress-
+  anomaly literature shows this family of effects is driven by the same small/illiquid/distressed
+  names each time, so it carries the same size/liquidity confound risk that killed profitability
+  and needs that control built in from the start; no India long-horizon drift study found (only a
+  short-window announcement event study, a different question), and point-in-time rating-change
+  data would need a from-scratch scrape comparable to the pledge-data effort. Also recorded as
+  investigated-not-proposed: analyst coverage initiation/termination (same limited-attention
+  mechanism as the 2026-08-30 media-attention candidate, not independent evidence, and its clean
+  effect sits at the announcement event rather than surviving as a standing factor, echoing PEAD's
+  decay problem).
