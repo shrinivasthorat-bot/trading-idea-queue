@@ -193,3 +193,24 @@ re-propose those without a genuinely new angle.
   mechanism as the 2026-08-30 media-attention candidate, not independent evidence, and its clean
   effect sits at the announcement event rather than surviving as a standing factor, echoing PEAD's
   decay problem).
+- **2026-10-25** — 2 candidates: abnormal inventory growth (operations-based investment anomaly,
+  distinct line-item-level data from the already-queued total-balance-sheet asset-growth
+  candidate) — U.S. origin (Kesavan & Mani 2013) plus a direct India study (Aziz & Sabir 2022,
+  NSE manufacturing firms, abstract-only) with the same sign, but a cited Tehran study reports
+  the opposite sign and the U.S. replication itself is period-dependent, so evidence is real but
+  not settled; data-blocked today by the same ~2023-only balance-sheet-history limit that parked
+  asset-growth. Online job-posting intensity as a hiring-intent signal — new alt-data type (firm-
+  generated operational disclosure, not price/attention/sentiment), best single-paper pedigree of
+  any scout run so far (Gutiérrez-Lourie-Nekrasov-Shevlin 2020, Management Science) plus a U.S.
+  working paper (Lev & Wu 2022) and an unverified Taiwan lead, but zero India evidence, a real
+  size/sector confound risk (India's blue-collar/contract hiring mostly bypasses online job
+  portals), and no backward-looking bulk archive exists to buy or scrape — materially longer data
+  lead time than any prior gap flagged in this queue. Also recorded as investigated-not-proposed:
+  website/app-traffic digital-footprint data (good U.S. evidence, zero EM replication, same
+  no-archive problem as job postings without even a non-U.S. data point), monsoon rainfall as an
+  FMCG/rural-consumption predictor (the one methodologically careful recent study found
+  inconsistent effects), auditor resignation/going-concern qualifications (press anecdotes and a
+  SEBI disclosure rule only, no academic return-predictability study), independent director
+  resignations (Satyam-era event study shows only a short announcement CAR, not a standing
+  factor), and mutual-fund active-share/crowding (no India study tests it against forward
+  returns).
