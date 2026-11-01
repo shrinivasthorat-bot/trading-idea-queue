@@ -214,3 +214,34 @@ re-propose those without a genuinely new angle.
   resignations (Satyam-era event study shows only a short announcement CAR, not a standing
   factor), and mutual-fund active-share/crowding (no India study tests it against forward
   returns).
+- **2026-11-01** — 2 candidates: capacity overhang / real-options excess-capacity measure
+  (Aretz & Pope 2018, *Journal of Finance*; Aretz & Kagkadis 2025, *JFQA*) — a new
+  structural/model-based investment construct (installed vs. model-optimal capacity, not a
+  simple balance-sheet growth rate like the already-queued asset-growth candidate), strong
+  single-source pedigree in top journals with a real-options/learning-curve mechanism, but
+  zero non-U.S. replication found and data-blocked today since estimating the capacity
+  frontier needs a much longer balance-sheet/PP&E panel than this project's ~2023-onward
+  history provides — queued as pending data extension alongside asset-growth and
+  inventory-growth. Key Audit Matters (KAM) disclosure content as an underreaction/risk
+  signal — genuinely new data type (the audit report's own structured list of flagged risk
+  areas, mandatory in India since SA 701 took effect for periods from April 2018, distinct
+  from the already-investigated annual-report Fog-index and auditor-resignation candidates),
+  multi-market evidence (Kenya, China, Egypt verified directly; Canada/Malaysia claims found
+  only via an unverified search summary) with one Kenyan thesis hinting at a one-year
+  post-disclosure drift rather than a pure announcement pop, but every study found is
+  fundamentally an event-study design and the size/complexity confound (more KAMs = bigger,
+  messier firms) that killed profitability needs an explicit control. Also recorded as
+  investigated-not-proposed: mutual-fund proxy-voting dissent (no return-predictability
+  evidence exists), LIC/insurance stake changes (no systematic study, overlaps with the
+  already-weak institutional-ownership-change candidate), NSE delivery-percentage (sits too
+  close to the closed-door volume/technical space and the one backtest found underperforms),
+  government contract-win announcements (the one academic event study found is
+  statistically insignificant), IT-sector management guidance revisions (no systematic
+  study, only news anecdotes), auditor Big4-switching (mixed/insignificant across markets),
+  working-capital days/cash-conversion cycle (only profitability-correlation studies, no
+  return test), import/export customs data (zero academic evidence, vendor claims only),
+  single-name CDS/credit-spread signals (India has no liquid single-name corporate CDS
+  market to build this from), and post-spin-off long-run drift (the founding U.S. result is
+  disputed by its own replication literature, and all India evidence is the same
+  short-window announcement-pop pattern already flagged as likely-arbitraged elsewhere in
+  this queue).
