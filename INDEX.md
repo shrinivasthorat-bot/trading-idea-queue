@@ -245,3 +245,22 @@ re-propose those without a genuinely new angle.
   disputed by its own replication literature, and all India evidence is the same
   short-window announcement-pop pattern already flagged as likely-arbitraged elsewhere in
   this queue).
+- **2026-11-08** — 2 candidates: mandatory CSR-spending shortfall/compliance ratio (Section 135
+  Companies Act 2013) as a governance signal — India-only by construction (first jurisdiction
+  globally to mandate CSR spend), genuinely new quantitative compliance data type distinct from
+  the already-rejected BRSR/ESG score candidate, directly obtainable from MCA21 CSR-2 filings
+  via the IEPF portal/Dataful, but the two India studies found disagree on sign (negative vs.
+  null), neither tests the shortfall-ratio framing proposed, and a size confound (mirroring the
+  profitability postmortem) is flagged upfront. Currency/FX-exposure magnitude as a priced risk
+  factor — new risk-factor family built from firm-level currency sensitivity rather than price/
+  accounting/ownership data, one India-specific implied-cost-of-equity study found (Kuchin,
+  Elkina & Dranev 2019, HSE) with a puzzling non-monotonic sign and an old (2003-2013) sample,
+  primary source unverified this run (network-blocked). Also recorded: a 2026 India-specific
+  options-skew study (credit-downgrade event-conditional) partly updates the open 2026-08-21
+  skew candidate's "no India replication" gap, without closing it. Investigated-not-proposed:
+  M&A acquirer long-run drift (contradictory India evidence), contingent-liabilities disclosure
+  (no return-predictability test exists), post-2023 tender-offer buyback returns (only a stale
+  pre-2023-regime study), corporate bond credit-spread spillover to equity (no India test),
+  retail-broker demat/flow sentiment data (no quantitative study exists), and related-party-
+  transaction disclosure/crash-risk (a downside-risk claim, not a return factor, overlapping the
+  already-investigated RPT-intensity candidate).
