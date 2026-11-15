@@ -264,3 +264,23 @@ re-propose those without a genuinely new angle.
   retail-broker demat/flow sentiment data (no quantitative study exists), and related-party-
   transaction disclosure/crash-risk (a downside-risk claim, not a return factor, overlapping the
   already-investigated RPT-intensity candidate).
+- **2026-11-15** — 2 candidates, both updates to items previously logged as "no citable
+  result" rather than brand-new topics: analyst earnings-estimate revision overlay (EPS change /
+  EPS diffusion) — a real India-specific vendor backtest now found (S&P DJI 2018, 0.30%/0.47%
+  monthly, 2005-2016), but it's practitioner not peer-reviewed research, high-turnover/cost-
+  sensitive, mechanistically adjacent to the already-deprioritized PEAD, and S&P's own blog
+  posts disagree internally on whether it's a size proxy. Working-capital-efficiency/cash-
+  conversion-cycle threshold effect on stock returns — an actual India return-test now found
+  (Banerjee, Kundu & Sivasankaran 2024, Global Business Review, GMM on 718 BSE firms 2011-2017,
+  threshold effect) closing the "no return test" gap flagged against this same topic on
+  2026-11-01, backed by a US "counterparty financing" paper lineage (Hill & Kelly et al.,
+  2012-2015), but single India study, stale sample, composite CCC not decomposed, real sector/
+  size confound risk flagged, and data-blocked by the same ~2023-onward balance-sheet-history
+  limit already parking asset-growth/inventory-growth/capacity-overhang. Also recorded as
+  investigated-not-proposed: CEO/management-succession transitions in family business groups
+  (no rigorous India return study found, only press anecdotes and non-India event studies, and
+  it's a short-window announcement-decay shape like PEAD), order-backlog disclosure mispricing
+  (strong academic pedigree but India backlog disclosure is voluntary/unstructured, and it
+  overlaps the same under-reaction family as this week's Candidate 1), and the debt-issuance
+  anomaly (overlaps the already-queued net-share-issuance candidate, India corporate bond data
+  not identified as obtainable).
